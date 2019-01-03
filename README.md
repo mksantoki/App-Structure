@@ -75,18 +75,17 @@ Advantage
 - https://github.com/yizems/ActivityIntentCreater
 
 #### 17) Always type will use number like 
-
-#### 18) Always use short keys name in API for fast data transfer
-
-#### 19) Command API structure for all apis
-
-#### 20) Any time force update user using response code 
 ```
 1=user
 2=admin
 3=team
 etc in login screen
 ```
+#### 18) Always use short keys name in API for fast data transfer
+
+#### 19) Command API structure for all apis
+
+#### 20) Any time force update user using response code 
 
 #### 21) Always define string inside resource string.xml
 
