@@ -72,6 +72,7 @@ Advantage
 #### 15) Require to create one method to show alert 
 
 #### 16) Intent Create plugin to change screen
+- https://github.com/yizems/ActivityIntentCreater
 
 #### 17) Always type will use number like 
 
