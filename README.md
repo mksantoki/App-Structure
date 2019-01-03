@@ -3,7 +3,7 @@
 
 Project Package structure
 
-Main Package *Java.vik.agriprinceinit*
+Main Package 
 ```
                                   - UI
                                     - Base
