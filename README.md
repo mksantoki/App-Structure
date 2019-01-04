@@ -140,5 +140,8 @@ The Room persistence library provides an abstraction layer over SQLite to allow 
 
 #### 34) #Font resources (https://developer.android.com/guide/topics/resources/font-resource)
 
+#### 35) #fabric (https://get.fabric.io/)
+- Crashlytics (Find crash issue)
+
 
   
